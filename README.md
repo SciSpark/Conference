@@ -11,7 +11,7 @@ This repository is where we are building a collection of Zeppelin Notebooks that
 - Capture snapshots of Notebooks along with other documentation and put it on the SciSpark web site, forming a standalone tutorial for use after first workshops.
 - We will need to develop notebooks with complete lessons for the website and the "teacher's guide" then develop "student" editions that have space for people to play
 - People involved in creating Notebooks and web site:
-[sujen1412](https://github.com/), [kwhitehall](https://github.com/kwhitehall), Valerie Roth, [rahulpalamuttam](https://github.com/rahulpalamuttam), [Loren](https://github.com/lawongsta), [BrianWilson1](https://github.com/BrianWilson1), [wmburke](https://github.com/wmburke)
+[sujen1412](https://github.com/), [kwhitehall](https://github.com/kwhitehall), [Valerie Roth](https://github.com/valeriearoth), [rahulpalamuttam](https://github.com/rahulpalamuttam), [Loren](https://github.com/lawongsta), [BrianWilson1](https://github.com/BrianWilson1), [wmburke](https://github.com/wmburke)
 - Workshop Participants can use SciSpark in three ways:
    - Standalone Spark on their laptops
    - SciSpark Cluster
